@@ -1,2 +1,2 @@
-# detecthypotension
-Detectar pressão baixa por meio dos dados de ECG utilizando o Python.
+# Detectar arritmia em sinais de ECG
+Sistema em Python para detectar arritmia em sinais de ECG de pacientes submetidos a hemodiálise.
